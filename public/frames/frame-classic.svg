@@ -1,0 +1,8 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="none"></rect>
+  <rect x="30" y="30" width="1020" height="1380" rx="48" stroke="white" stroke-width="24"></rect>
+  <rect x="75" y="75" width="930" height="1290" rx="34" stroke="#FF4D8D" stroke-width="10"></rect>
+  <rect x="80" y="1180" width="920" height="180" rx="26" fill="rgba(0,0,0,0.35)"></rect>
+  <text x="540" y="1270" fill="white" font-size="60" font-family="Arial" font-weight="700" text-anchor="middle">Photobooth Raka</text>
+  <text x="540" y="1330" fill="#48D6FF" font-size="32" font-family="Arial" text-anchor="middle">Classic Frame</text>
+</svg>

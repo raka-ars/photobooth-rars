@@ -1,0 +1,9 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="none"></rect>
+  <rect x="40" y="40" width="1000" height="1360" rx="46" stroke="white" stroke-width="12"></rect>
+  <line x1="90" y1="145" x2="990" y2="145" stroke="white" stroke-width="6"></line>
+  <line x1="90" y1="1160" x2="990" y2="1160" stroke="white" stroke-width="6"></line>
+  <rect x="85" y="1188" width="910" height="125" rx="20" fill="rgba(255,255,255,0.28)"></rect>
+  <text x="540" y="1262" fill="white" font-size="52" font-family="Arial" font-weight="700" text-anchor="middle">Minimal Mood</text>
+  <text x="540" y="1330" fill="white" font-size="26" font-family="Arial" text-anchor="middle">photobooth.raka</text>
+</svg>

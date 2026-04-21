@@ -1,0 +1,12 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="none"></rect>
+  <rect x="25" y="25" width="1030" height="1390" rx="50" stroke="#48D6FF" stroke-width="18"></rect>
+  <rect x="55" y="55" width="970" height="1330" rx="42" stroke="#7C4DFF" stroke-width="10"></rect>
+  <circle cx="125" cy="125" r="26" fill="#FF4D8D"></circle>
+  <circle cx="955" cy="125" r="26" fill="#48D6FF"></circle>
+  <circle cx="125" cy="1315" r="26" fill="#7C4DFF"></circle>
+  <circle cx="955" cy="1315" r="26" fill="#FF4D8D"></circle>
+  <rect x="90" y="1100" width="900" height="230" rx="32" fill="rgba(8,11,20,0.38)"></rect>
+  <text x="540" y="1210" fill="white" font-size="68" font-family="Arial" font-weight="700" text-anchor="middle">NEON BOOTH</text>
+  <text x="540" y="1285" fill="#48D6FF" font-size="34" font-family="Arial" text-anchor="middle">Smile • Snap • Repeat</text>
+</svg>
